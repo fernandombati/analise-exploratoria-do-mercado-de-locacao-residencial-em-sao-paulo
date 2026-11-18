@@ -13,7 +13,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 # BLOCO 1: CONFIGURAÇÃO DA PÁGINA & ESTILIZAÇÃO VISUAL APRIMORADA
 # ==============================================================================
 st.set_page_config(
-    page_title="Dashboard | Análise Imobiliária QuintoAndar",
+    page_title="Análise exploratória do mercado de locação residencial em São Paulo",
     page_icon="🏠",
     layout="wide",
     initial_sidebar_state="expanded"
