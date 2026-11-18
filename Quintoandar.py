@@ -716,3 +716,21 @@ elif menu_selecionado == "📋 Tabela Auditável":
         },
         width="stretch", hide_index=True
     )
+
+elif menu_selecionado == "🏢 Contexto de Negócio":
+    st.subheader("🏢 Contexto Corporativo & Referencial Teórico")
+    c1, c2 = st.columns(2)
+    with c1:
+        st.markdown(
+            '<div class="dashboard-card"><h4>Ecossistema QuintoAndar</h4>'
+            '<p>Plataforma líder em proptech no Brasil, fundada em 2013 para '
+            'simplificar o mercado de locação residencial sem fiador ou burocracia.</p></div>',
+            unsafe_allow_html=True,
+        )
+    with c2:
+        st.markdown(
+            '<div class="dashboard-card"><h4>Enquadramento Acadêmico</h4>'
+            '<p><b>CNAE:</b> 6822-6/00 — Gestão de bens imobiliários por conta de terceiros. '
+            'Projeto desenvolvido para FATEC SEBRAE.</p></div>',
+            unsafe_allow_html=True,
+        )
