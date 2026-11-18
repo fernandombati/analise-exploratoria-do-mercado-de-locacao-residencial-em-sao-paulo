@@ -2,7 +2,7 @@
 
 Projeto acadêmico de análise de anúncios residenciais do QuintoAndar, desenvolvido para o Projeto Integrador da FATEC SEBRAE.
 
-**Dashboard online:** [Abrir o dashboard](https://quintoandar-analytics-fatec.streamlit.app/)
+**Dashboard online:** [Abrir o dashboard](https://mercado-locacao-residencial-sp.streamlit.app/)
 
 ## O projeto
 
