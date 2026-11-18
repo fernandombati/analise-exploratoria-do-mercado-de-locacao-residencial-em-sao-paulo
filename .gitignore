@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.streamlit/secrets.toml
+BKP/
+Quintoandar - Copia2.py
+Quintoandar.bkp.3.py
+Thumbs.db
+.DS_Store
